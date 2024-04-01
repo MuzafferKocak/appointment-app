@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Tac+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Scribble&family=Tac+One&display=swap");
+
+.header {
+  text-align: center;
+  background-color: rgb(92, 117, 117);
+  h1 {
+    color: rgb(255, 98, 0);
+    font-family: "Tac One", sans-serif;
+    font-size: 2.5rem;
+    letter-spacing: 0.7rem;
+  }
+  h2 {
+    color: rgb(55, 255, 0);
+    font-family: "Rubik scribble", sans-serif;
+    font-size: 1.8rem;
+    letter-spacing: 0.5rem;
+  }
+}
